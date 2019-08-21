@@ -19,7 +19,7 @@
 ```
 > # headline
 > * list
->> `text`
+> `text`
 ```
 - 실제 결과
 > # headline  
