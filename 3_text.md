@@ -22,9 +22,9 @@
 >> `text`
 ```
 - 실제 결과
-> # headline
-> * list
->> `text`
+> # headline  
+> * list  
+> `text`
 
 ## 3-2. 개행 사용하기
 
