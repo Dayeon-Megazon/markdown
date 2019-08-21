@@ -1,0 +1,54 @@
+# 3. 문자 강조하기
+
+## 3-1. 인용구 사용하기
+
+- 사용
+
+```
+> Hi
+>> How are you
+>>> I'm fine
+```
+- 적용
+
+> Hi
+>> How are you
+>>> I'm fine
+
+- 응용
+```
+> # headline
+> * list
+>> `text`
+```
+- 실제 결과
+> # headline
+> * list
+>> `text`
+
+## 3-2. 개행 사용하기
+
+- 사용
+```
+Hi  
+How are you  
+I'm fine  
+```
+- 적용
+
+Hi  
+How are you  
+I'm fine  
+
+> 줄 맨 끝에 스페이스 바를 2번 이상 눌러주어야 한다.
+
+> 그냥 엔터키로 한 줄을 띄우면 결과가 다르다.
+
+Hi  
+
+How are you  
+
+I'm fine  
+
+> 개행을 사용하면 윗줄에서 사용했던 리스트/ 인용이 같이 사용되므로,  
+> 이런 경우는 엔터키로 줄을 넘겨야한다. 
