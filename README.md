@@ -15,5 +15,5 @@
 
 [6. Codeblock](https://github.com/It-dayeon/markdown/blob/master/6_%20codeblock.md)
 
-
+[7. Table](https://github.com/It-dayeon/markdown/blob/master/7_table.md)
   
