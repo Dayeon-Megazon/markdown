@@ -41,7 +41,7 @@
 [![Github](https://user-images.githubusercontent.com/54167990/63478771-110acd00-c4c6-11e9-9b22-623411360325.jpg "Github")](https://github.com/It-dayeon)
 
 
-## 5.3 HTML 태그를 사용하는 방식
+## 5.4 HTML 태그를 사용하는 방식
 
 - 사용
 ```
