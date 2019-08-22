@@ -13,7 +13,7 @@
 
 [5. Image](https://github.com/It-dayeon/markdown/blob/master/5_image.md)
 
-[6. Codeblock](https://github.com/It-dayeon/markdown/blob/master/6_codeblock.md)
+[6. Codeblock](https://github.com/It-dayeon/markdown/blob/master/6_%20codeblock.md)
 
 
   
