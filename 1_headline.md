@@ -74,4 +74,4 @@ ___
 
 ---
 
-> 다음 단계 : [List](https://github.com/It-dayeon/markdown/blob/master/2_list.md)
+다음 단계로 넘어가기 : [Next Step: List](https://github.com/It-dayeon/markdown/blob/master/2_list.md)
