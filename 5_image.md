@@ -10,7 +10,7 @@
 ---
 
 # 5. 이미지 삽입하기
-## 5.1 이미지 삽입하는 기본 방법
+## 5-1. 이미지 삽입하는 기본 방법
 
 - 사용
 ```
@@ -24,7 +24,7 @@
 ![Github](https://user-images.githubusercontent.com/54167990/63478771-110acd00-c4c6-11e9-9b22-623411360325.jpg)
 
 
-## 5.2 이미지에 마우스를 올리면 텍스트 나오는 방법
+## 5-2. 이미지에 마우스를 올리면 텍스트 나오는 방법
 
 - 사용
 ```
@@ -38,7 +38,7 @@
 
 ![Github](https://user-images.githubusercontent.com/54167990/63478771-110acd00-c4c6-11e9-9b22-623411360325.jpg "Github")
 
-## 5.3 이미지를 링크로 사용하는 방법
+## 5-3. 이미지를 링크로 사용하는 방법
 
 - 사용
 ```
@@ -52,7 +52,7 @@
 [![Github](https://user-images.githubusercontent.com/54167990/63478771-110acd00-c4c6-11e9-9b22-623411360325.jpg "Github")](https://github.com/It-dayeon)
 
 
-## 5.4 HTML 태그를 사용하는 방법
+## 5-4. HTML 태그를 사용하는 방법
 
 - 사용
 ```
