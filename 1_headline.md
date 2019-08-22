@@ -1,6 +1,13 @@
+목차  
+
+[1. 제목](#제목)  
+
+[1-1. 크키 조절과 줄을 같이 쓰는 방법](##크기 조절과 줄을 같이 쓰는 방법)  
+
+
 # 1. 제목
 
-## 1-1. 크기 조절과 줄(호라이즌)을 같이 쓰는 방법
+## 1-1. 크기 조절과 줄을 같이 쓰는 방법
 
 - 사용법
 
@@ -74,4 +81,4 @@ ___
 
 ---
 
-다음 단계로 넘어가기 : [Next Step: List](https://github.com/It-dayeon/markdown/blob/master/2_list.md)
+다음 단계로 넘어가기 : [List](https://github.com/It-dayeon/markdown/blob/master/2_list.md)
