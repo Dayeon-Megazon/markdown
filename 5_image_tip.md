@@ -46,5 +46,5 @@ Github의 Issues에 이미지를 업로드하면 Repository 용량에 포함되�
 
 ---
 
-다음 단계로 넘어가기 : [List](https://github.com/It-dayeon/markdown/blob/master/2_list.md)
+다음 단계로 넘어가기 : [Codeblock](https://github.com/It-dayeon/markdown/blob/master/6_%20codeblock.md#6-3-%EC%96%B8%EC%96%B4%EC%97%90-%EB%94%B0%EB%A5%B8-%EC%BD%94%EB%93%9C-%EB%B8%94%EB%9F%AD-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
