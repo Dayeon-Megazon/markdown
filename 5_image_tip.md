@@ -2,14 +2,14 @@
 
 [5-5. 이미지 삽입 링크 쉽게 아는 팁](#5-5-이미지-삽입-링크-쉽게-아는-팁)  
 
-[5-5-1. repository에 올리는 기본 방법](#5-5-1-repository에-올리는-기본-방법)   
+[5-5-1. Repository에 올리는 기본 방법](#5-5-1-repository에-올리는-기본-방법)   
 [5-5-2. Github Issue 기능 이용해 올리는 방법](#5-5-2-github-issue-기능-이용해-올리는-방법) 
 
 ---
 
 # 5-5. 이미지 삽입 링크 쉽게 아는 팁
 
-## 5-5-1. repository에 올리는 기본 방법
+## 5-5-1. Repository에 올리는 기본 방법
 
 - 사용
 
@@ -42,3 +42,8 @@
 - 장점
 
 Github의 Issues에 이미지를 업로드하면 Repository 용량에 포함되지 않는다.
+
+---
+
+다음 단계로 넘어가기 : [List](https://github.com/It-dayeon/markdown/blob/master/2_list.md)
+
