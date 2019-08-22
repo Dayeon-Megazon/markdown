@@ -66,3 +66,7 @@
 <div>
 <img width="200" src="https://user-images.githubusercontent.com/54167990/63478771-110acd00-c4c6-11e9-9b22-623411360325.jpg" 
 </div>
+  
+---
+
+다음 단계로 넘어가기 : [Image-Tip](https://github.com/It-dayeon/markdown/blob/master/5_image_tip.md)
