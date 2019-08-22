@@ -46,3 +46,7 @@ https://github.com/It-dayeon
 > 1번 괄호: 링크에 사용할 문장이나 단어 넣음   
 > 2번 괄호: 선언하기 - 여기서는 [링크]를 정의함  
 > 3번 괄호: 2번 괄호에서 선언한 링크를 정의한다. URL 링크 / "링크이름" 순 
+
+---
+
+다음 단계로 넘어가기 : [Image](https://github.com/It-dayeon/markdown/blob/master/5_image.md)
