@@ -42,6 +42,3 @@ Num1 | mark1 | mark2 | mark3
 ----| ---- | ---- | ---- 
 Num2 | down1 |  | down3 |
 
----
-
-다음 단계로 넘어가기 : [List](https://github.com/It-dayeon/markdown/blob/master/2_list.md)
