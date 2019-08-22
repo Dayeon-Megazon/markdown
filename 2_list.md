@@ -132,3 +132,7 @@
 2. 2번 숫자
    * 3번 기호
    * 4번 기호
+   
+---
+
+다음 단계로 넘어가기 : [Text](https://github.com/It-dayeon/markdown/blob/master/3_text.md)
