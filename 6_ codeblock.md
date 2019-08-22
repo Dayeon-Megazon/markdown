@@ -84,4 +84,4 @@ return true;
 
 ---
 
-다음 단계 :---
+다음 단계 : [Table](https://github.com/It-dayeon/markdown/blob/master/7_table.md)
