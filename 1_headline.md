@@ -71,3 +71,7 @@ ___
 > 세가지 방법 모두 가능하다.
  
 > ‘ * ’ ‘ - ’ ‘ _ ’를 3번 이상 써주면 된다.
+
+---
+
+> 다음 단계 : [List](https://github.com/It-dayeon/markdown/blob/master/2_list.md)
