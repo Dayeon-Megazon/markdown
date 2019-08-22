@@ -24,13 +24,13 @@ https://github.com/It-dayeon
 
 ## 4-2. 링크에 들어갈 이름 넣는 방법
 
--사용
+- 사용
 ```
 [링크에 사용할 이름](URL)
 [Dayeon's Github](https://github.com/It-dayeon)
 ```
 
--적용
+- 적용
 
 [Dayeon's Github](https://github.com/It-dayeon)
 
